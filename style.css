@@ -1,0 +1,44 @@
+/*
+Theme Name: Twentyseventeen Child Theme
+Description: Twentyseventeen Child Theme For Wordpress
+Author: ThemeAmber
+Author URI: http://themeamber.com/
+Template: Twentyseventeen
+Version: 1.0
+*/
+@import url("../twentyseventeen/style.css");
+
+.col-sm-4 {
+    width: 33.33%;
+    float: left;
+    position: relative;
+    left: 20%;
+}
+div#footer {
+    width: 100%;
+    float: left;
+}
+.error {
+    color: red;
+}
+.shortcode.cta {
+	clear: both;
+	width: 25em;
+	max-width: 50%;
+	margin: 10px auto;
+	padding: 15px 5% 3px 5%;
+	font: arial, sans-serif;
+	font-size: 1.4rem;
+	text-align: center;
+	line-height: 1.8rem;
+	background-color: #222;
+	color: #fff;
+}
+.cta a:link,
+.cta a:visited {
+	text-decoration: none;
+}
+.cta a:hover,
+.cta a:active {
+	text-decoration: underline;
+}
