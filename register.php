@@ -71,6 +71,6 @@ get_header();
    });
   })
 </script>
-<!--Hii,,, i m there-->
+<!--Hii... i m there-->
 <?php get_footer();
 ?>
